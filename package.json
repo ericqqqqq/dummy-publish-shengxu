@@ -1,0 +1,14 @@
+{
+  "name": "dummy-publish-shengxu",
+  "version": "1.0.0",
+  "description": "a dummy package to test publish with npm command",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "test",
+    "npm",
+    "dummy"
+  ],
+  "author": "Shengxu",
+  "license": "ISC"
+}
